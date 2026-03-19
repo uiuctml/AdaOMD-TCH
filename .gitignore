@@ -1,0 +1,4 @@
+*.pyc
+synthetic/Output/discrete
+fairFL/experiments/workflow/data
+fairFL/experiments/output
