@@ -1,0 +1,8 @@
+m: 10                   # number of clients
+
+depth: 20
+num_classes: 10
+num_epochs: 45
+batch_size: 100
+tau: 1                  # number of iterations of local update
+lr: 0.1                 # learning rate for model parameters

@@ -1,0 +1,6 @@
+m: 10                   # number of clients
+
+h1: 200                 # dimension of the hidden layer
+num_epochs: 300
+tau: 10                 # number of iterations of local update
+lr: 0.1                 # learning rate for model parameters

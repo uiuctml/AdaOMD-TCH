@@ -1,0 +1,12 @@
+m: 2                    # number of clients
+p: 2                    # number of clusters
+per_cluster_list: [[0],[1]]
+cluster_ids: [0,1]
+w: [0.5, 1.5]
+
+depth: 20
+num_classes: 10
+num_epochs: 45
+batch_size: 100
+tau: 1                  # number of iterations of local update
+lr: 0.1                 # learning rate for model parameters
