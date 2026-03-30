@@ -1,4 +1,5 @@
 *.pyc
 synthetic/Output/discrete
-fairFL/experiments/workflow/data
-fairFL/experiments/output
+FL/experiments/workflow/data
+FL/experiments/output
+*.DS_Store

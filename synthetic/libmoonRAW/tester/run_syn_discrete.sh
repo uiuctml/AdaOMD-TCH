@@ -1,5 +1,5 @@
 # modify to your own path
-export PYTHONPATH="${PYTHONPATH}:/home/nilgeoutim/tmlr_code/AdaOMD-TCH-master/synthetic"
+export PYTHONPATH="${PYTHONPATH}:/home/nilgeoutim/AdaOMD-TCH/synthetic"
 
 problems=("VLMOP2" "F1" "F2" "F3" "F4" "F5" "F6")
 seeds="0,19,42"

@@ -1,5 +1,5 @@
 # modify to your own path
-export PYTHONPATH="${PYTHONPATH}:/home/nilgeoutim/AdaOMD-TCH/fairFL/scripts"
+export PYTHONPATH="${PYTHONPATH}:/home/nilgeoutim/AdaOMD-TCH/FL/scripts"
 
 dataset="CIFAR10"
 n_i=5

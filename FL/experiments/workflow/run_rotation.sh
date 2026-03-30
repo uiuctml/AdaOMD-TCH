@@ -1,5 +1,5 @@
 # modify to your own path
-export PYTHONPATH="${PYTHONPATH}:/home/nilgeoutim/AdaOMD-TCH/fairFL/scripts"
+export PYTHONPATH="${PYTHONPATH}:/home/nilgeoutim/AdaOMD-TCH/FL/scripts"
 
 dataset="CIFAR10"
 seeds=(0 25 37 42 53 81 119 1010 1201 2003)
