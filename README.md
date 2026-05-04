@@ -13,10 +13,10 @@ The synthetic and federated learning (FL) experiments can be reproduced with the
 
 ### Citation
 ```bibtex
-@article{liu2024online,
-  title={Online mirror descent for tchebycheff scalarization in multi-objective optimization},
+@article{liu2026adaptive,
+  title={Adaptive Online Mirror Descent for Tchebycheff Scalarization in Multi-Objective Learning},
   author={Liu, Meitong and Zhang, Xiaoyuan and Xie, Chulin and Donahue, Kate and Zhao, Han},
-  journal={arXiv preprint arXiv:2410.21764},
-  year={2024}
+  journal={Transactions on Machine Learning Research},
+  year={2026}
 }
 ```
